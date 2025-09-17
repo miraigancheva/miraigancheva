@@ -2,7 +2,7 @@
 ## Hi, I'm Mira Gancheva — Aspiring Actuary 📊 | Actuarial Science Student at Ulm University 🎓
 
 <!-- Your badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/miraigancheva))
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/miraigancheva))]
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/miragancheva)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mira.gancheva@uni-ulm.de)
 
