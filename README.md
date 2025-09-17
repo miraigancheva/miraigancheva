@@ -53,8 +53,5 @@
 
 ---
 
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.svg" />
-</p>
 
 <!-- This readme was adapted for Mira Gancheva -->
