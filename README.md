@@ -67,6 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraigancheva&layout=compact&theme=default&hide_border=true" height="160" alt="Top languages"/>
 </p>
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miriagancheva&layout=compact&theme=tokyonight)
+![Top language](https://img.shields.io/github/languages/top/miriagancheva/cs50Journey)
+![Language count](https://img.shields.io/github/languages/count/miriagancheva/cs50Journey)
 
