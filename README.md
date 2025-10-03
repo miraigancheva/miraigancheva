@@ -67,13 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraigancheva&layout=compact&theme=default&hide_border=true" height="160" alt="Top languages"/>
 </p>
 
-# help detection
-*.c linguist-language=C
-*.h linguist-language=C
-
-# don’t let non-source skew the % (optional)
-node_modules/** linguist-vendored
-vendor/**       linguist-vendored
-dist/**         linguist-generated
-docs/**         linguist-documentation
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miriagancheva&layout=compact&theme=tokyonight)
 
