@@ -60,13 +60,3 @@
 </p>
 
 ---
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miraigancheva&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraigancheva&layout=compact&theme=default&hide_border=true" height="160" alt="Top languages"/>
-</p>
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miragancheva&layout=compact)
-
